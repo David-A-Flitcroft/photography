@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "David Flitcroft Photography",
-    "currentPage": "index.html",
+    "currentPage": "Image_Albums.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3746,7 +3746,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Weston Super Mare",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -3838,6 +3838,45 @@
                 "customStyle1": "display-7",
                 "caption": "Magnifying Glass",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5107-1359x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5107-1359x1200-800x706.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Spiral Staircase",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5245-1600x1131.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5245-1600x1131-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Dig",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5271-646x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5271-646x1200-646x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Anne Bronte's grave",
+                "active": true
               }
             ]
           }
@@ -4419,13 +4458,78 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/d80-6523-1600x895.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d80-6523-1600x895-800x448.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/d80-6531-1600x862.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d80-6531-1600x862-800x431.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/d80-6534-edit-1239x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d80-6534-edit-1239x1200-800x775.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/d80-6557-1600x875.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d80-6557-1600x875-800x438.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/d80-6587-1600x843.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/d80-6587-1600x843-800x422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/d80-6731-1600x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d80-6731-1600x720-800x360.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           }

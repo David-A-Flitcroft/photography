@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "David Flitcroft Photography",
-    "currentPage": "index.html",
+    "currentPage": "ThisandThat.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5870,6 +5870,19 @@
                 "customStyle1": "display-7",
                 "caption": "Anne Bronte's grave",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5505-1600x933.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5505-1600x933-800x467.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "The devonport Arms, Paignton",
+                "active": false
               }
             ]
           }

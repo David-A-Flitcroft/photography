@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "David Flitcroft Photography",
-    "currentPage": "ThisandThat.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,9 +43,14 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/d7k3269-128x193-1.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-169179804-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169179804-1');\n</script>\n",
     "siteUrl": "undefined",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
